@@ -1,6 +1,11 @@
 # Tableau Visualization for Digital Marketing Data 
 ### The visualization project focused on analyzing sales and profitability dynamics through the lens of various key factors. Leveraging Tableau's powerful visualization capabilities
 
+### Visualization Dashboard 
+[https://public.tableau.com/shared/NGRRCBHDC?:display_count=n&:origin=viz_share_link]
+
+
+
 ### Data Sources:
 #### data source :Digital Marketing Data 
     The dataset comprises information related to orders and sales transactions, encompassing various attributes essential for comprehensive analysis. Key fields include Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Segment, Country, City, State, Postal Code, Region, Category, Product, Sales, Quantity, Marketing Cost, and Profit.
